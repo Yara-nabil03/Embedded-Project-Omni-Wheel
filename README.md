@@ -1,2 +1,2 @@
 # Embedded-Project-Omni-Wheel
-MCT333_Project_Omni Wheel Mobile Mnaipulator
+MCT333_Project_Omni Wheel Mobile Manipulator
